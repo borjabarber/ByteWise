@@ -59,6 +59,8 @@ entrevistador2/
 │
 ├── main.py                # Backend FastAPI
 │
+├── oldvers/               # Antiguas versiones y pruebas.
+│
 ├── static/
 │   ├── css/
 │   │   └── style.css      # Estilos del chat
