@@ -70,11 +70,10 @@ entrevistador2/
 │   └── index.html         # Interfaz principal
 ```
 
-## Licencia
 
 Este proyecto es solo para fines educativos y de práctica.  
 No está afiliado a OpenAI ni a ninguna empresa de selección de personal.
 
 ---
 
-¡Esperamos que te ayude a prepararte para tus entrevistas técnicas
+
