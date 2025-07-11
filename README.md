@@ -1,4 +1,4 @@
-# EntrevistadorDS
+# ByteWise tu entrevistador tecnico de data science 
 Este proyecto es un **entrevistador técnico virtual** para Data Science, desarrollado con FastAPI, OpenAI GPT-4 y una interfaz web moderna. El objetivo es simular una entrevista técnica real, ayudando a candidatos a practicar y mejorar sus habilidades en temas clave de ciencia de datos.
 
 ## Características
