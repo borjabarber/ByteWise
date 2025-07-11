@@ -58,7 +58,6 @@ Este proyecto es un **entrevistador técnico virtual** para Data Science, desarr
 entrevistador2/
 │
 ├── main.py                # Backend FastAPI
-├── .env                   # Tu clave de OpenAI (no subir a GitHub)
 │
 ├── static/
 │   ├── css/
