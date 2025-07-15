@@ -10,12 +10,12 @@ Este proyecto implementa una **simulación de entrevista técnica en Data Scienc
 **Actúa como entrevistador técnico**: Usa un contexto predefinido para que GPT-4 se comporte como un entrevistador experto en Data Science.
 **Hace preguntas una por una**: La entrevista avanza paso a paso. GPT-4 espera tu respuesta antes de continuar con la siguiente pregunta.
 **Preguntas variadas**: Las preguntas cubren temas como:
-  - Bias-Variance Tradeoff
-  - Cross-validation
-  - Feature engineering
-  - Métricas como Precision, Recall, F1, AUC
-  - Regularización L1/L2
-  - SQL
+  - Bias-Variance Tradeoff  
+  - Cross-validation  
+  - Feature engineering  
+  - Métricas como Precision, Recall, F1, AUC  
+  - Regularización L1/L2  
+  - SQL  
   - Diseño de experimentos A/B  
 **Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.  
 **Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.  
