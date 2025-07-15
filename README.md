@@ -24,7 +24,7 @@ Este proyecto implementa una **simulación de entrevista técnica en Data Scienc
 **Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.  
 **Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.  
 
-En resumen, este sistema convierte tu navegador en una sala de entrevistas donde practicas tus habilidades de Data Science con inteligencia artificial.  
+**En resumen:** Este sistema convierte tu navegador en una sala de entrevistas donde practicas tus habilidades de Data Science con inteligencia artificial.  
 
 ## Tecnologías utilizadas
 
