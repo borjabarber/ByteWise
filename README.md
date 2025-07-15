@@ -1,13 +1,28 @@
 # ByteWise tu entrevistador tecnico de data science 
 Este proyecto es un **entrevistador técnico virtual** para Data Science, desarrollado con FastAPI, OpenAI GPT-4 y una interfaz web moderna. El objetivo es simular una entrevista técnica real, ayudando a candidatos a practicar y mejorar sus habilidades en temas clave de ciencia de datos.
 
-## Características
 
-- **Simulación de entrevista técnica**: El bot actúa como un entrevistador senior y realiza preguntas técnicas de Data Science.
-- **Flujo natural**: El bot se presenta, pide al usuario que se presente y luego inicia la entrevista.
-- **Preguntas variadas**: Incluye temas como Machine Learning, métricas, regularización, SQL, experimentos A/B, etc.
-- **Feedback inmediato**: Si la respuesta es incorrecta, el bot explica el concepto correcto.
-- **Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.
+## ¿Qué hace todo este sistema?
+
+Este proyecto implementa una **simulación de entrevista técnica en Data Science** utilizando FastAPI y la API de OpenAI (GPT-4). A continuación se resumen sus funciones principales:
+
+-  **Reconoce tu presentación**: Detecta si el usuario se presenta ("me llamo...", "soy...") y responde con un saludo personalizado.
+-  **Actúa como entrevistador técnico**: Usa un contexto predefinido para que GPT-4 se comporte como un entrevistador experto en Data Science.
+-  **Hace preguntas una por una**: La entrevista avanza paso a paso. GPT-4 espera tu respuesta antes de continuar con la siguiente pregunta.
+-  **Preguntas variadas**: Las preguntas cubren temas como:
+  - Bias-Variance Tradeoff
+  - Cross-validation
+  - Feature engineering
+  - Métricas como Precision, Recall, F1, AUC
+  - Regularización L1/L2
+  - SQL
+  - Diseño de experimentos A/B
+-  **Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.
+-  **Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.
+-  **Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.
+-  **Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.  
+
+En resumen, este sistema convierte tu navegador en una sala de entrevistas donde practicas tus habilidades de Data Science con inteligencia artificial.  
 
 ## Tecnologías utilizadas
 
