@@ -6,10 +6,10 @@ Este proyecto es un **entrevistador técnico virtual** para Data Science, desarr
 
 Este proyecto implementa una **simulación de entrevista técnica en Data Science** utilizando FastAPI y la API de OpenAI (GPT-4). A continuación se resumen sus funciones principales:
 
--  **Reconoce tu presentación**: Detecta si el usuario se presenta ("me llamo...", "soy...") y responde con un saludo personalizado.
--  **Actúa como entrevistador técnico**: Usa un contexto predefinido para que GPT-4 se comporte como un entrevistador experto en Data Science.
--  **Hace preguntas una por una**: La entrevista avanza paso a paso. GPT-4 espera tu respuesta antes de continuar con la siguiente pregunta.
--  **Preguntas variadas**: Las preguntas cubren temas como:
+**Reconoce tu presentación**: Detecta si el usuario se presenta ("me llamo...", "soy...") y responde con un saludo personalizado.
+**Actúa como entrevistador técnico**: Usa un contexto predefinido para que GPT-4 se comporte como un entrevistador experto en Data Science.
+**Hace preguntas una por una**: La entrevista avanza paso a paso. GPT-4 espera tu respuesta antes de continuar con la siguiente pregunta.
+**Preguntas variadas**: Las preguntas cubren temas como:
   - Bias-Variance Tradeoff
   - Cross-validation
   - Feature engineering
@@ -17,10 +17,10 @@ Este proyecto implementa una **simulación de entrevista técnica en Data Scienc
   - Regularización L1/L2
   - SQL
   - Diseño de experimentos A/B
--  **Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.
--  **Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.
--  **Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.
--  **Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.  
+**Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.
+**Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.
+**Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.
+**Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.  
 
 En resumen, este sistema convierte tu navegador en una sala de entrevistas donde practicas tus habilidades de Data Science con inteligencia artificial.  
 
