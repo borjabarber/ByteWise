@@ -16,10 +16,10 @@ Este proyecto implementa una **simulación de entrevista técnica en Data Scienc
   - Métricas como Precision, Recall, F1, AUC
   - Regularización L1/L2
   - SQL
-  - Diseño de experimentos A/B
-**Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.
-**Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.
-**Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.
+  - Diseño de experimentos A/B  
+**Interfaz web**: La entrevista se realiza desde una página web (`index.html`) usando FastAPI y plantillas Jinja2.  
+**Memoria de contexto**: Mantiene el historial del chat para que GPT-4 entienda en qué parte de la entrevista estás.  
+**Manejo de errores**: Si ocurre un fallo (por ejemplo, error en la API), te informa para que lo intentes de nuevo.  
 **Interfaz moderna**: Chat visual atractivo, animaciones y experiencia de usuario fluida.  
 
 En resumen, este sistema convierte tu navegador en una sala de entrevistas donde practicas tus habilidades de Data Science con inteligencia artificial.  
