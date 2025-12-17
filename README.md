@@ -103,7 +103,7 @@ pip install fastapi uvicorn openai python-dotenv
 ### 3. Configurar el Frontend
 
 ```bash
-cd frontend
+cd /frontend
 npm install
 ```
 
@@ -124,7 +124,6 @@ El API estará disponible en: `http://localhost:8000`
 
 ```bash
 # Desde la carpeta frontend
-cd frontend
 npm run dev
 ```
 
