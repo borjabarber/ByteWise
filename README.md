@@ -20,7 +20,7 @@ ByteWise es una aplicación de entrevistas técnicas diseñada para ayudar a can
 
 ## Características
 
-- **Entrevistador IA**: Simulación realista de entrevistas técnicas con GPT-4
+- **Entrevistador IA**: Simulación realista de entrevistas técnicas 
 - **Adaptativo**: Ajusta la dificultad según las respuestas del candidato
 - **Memoria Persistente**: Guarda todas las conversaciones en SQLite
 - **Historial de Sesiones**: Revisa y continúa entrevistas anteriores
