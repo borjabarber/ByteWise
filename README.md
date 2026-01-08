@@ -9,12 +9,12 @@ ByteWise es una aplicación de entrevistas técnicas diseñada para ayudar a can
 ## Demo
 
 <!-- Añade aquí tu video demostrativo -->
-
-<a href="[video/demo.mp4](https://vimeo.com/1152656092?fl=pl&fe=sh)">
+<a href="https://vimeo.com/1152656092?fl=pl&fe=sh" target="_blank" rel="noopener noreferrer">
   <img src="screenshots/welcome.png" alt="Demo Video" width="600">
 </a>
 
-*Haz clic en la imagen para ver el video demostrativo*
+<p><em>Haz clic en la imagen para ver el video demostrativo</em></p>
+
 
 ---
 
